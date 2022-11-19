@@ -1,0 +1,13 @@
+.animationPayment {
+  height: 15rem;
+  animation: name 0.3s ease-in;
+}
+
+@keyframes name {
+  from {
+    height: 0rem;
+  }
+  to {
+    height: 15rem;
+  }
+}
